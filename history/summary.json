@@ -4,19 +4,19 @@
     "url": "https://restapi-sq94.onrender.com/api/products",
     "icon": "https://icons.duckduckgo.com/ip3/restapi-sq94.onrender.com.ico",
     "slug": "rest-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 351,
-    "timeDay": 351,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "status": "up",
+    "uptime": "95.63%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "95.63%",
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 20
     }
   }
 ]
