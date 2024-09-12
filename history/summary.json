@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mehbn.onrender.com.ico",
     "slug": "mehbn",
     "status": "up",
-    "uptime": "74.23%",
-    "uptimeDay": "74.23%",
-    "uptimeWeek": "74.23%",
-    "uptimeMonth": "74.23%",
-    "uptimeYear": "74.23%",
+    "uptime": "92.41%",
+    "uptimeDay": "92.41%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "92.41%",
     "time": 333,
     "timeDay": 333,
     "timeWeek": 333,
     "timeMonth": 333,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-09-12": 34
+      "2024-09-12": 20
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/restapi-sq94.onrender.com.ico",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "89.16%",
-    "uptimeDay": "89.16%",
-    "uptimeWeek": "89.16%",
-    "uptimeMonth": "89.16%",
-    "uptimeYear": "89.16%",
+    "uptime": "90.15%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "90.15%",
+    "uptimeMonth": "90.15%",
+    "uptimeYear": "90.15%",
     "time": 4580,
     "timeDay": 4580,
     "timeWeek": 4580,
@@ -45,19 +45,19 @@
     "url": "https://mern-crud-backend-es7b.onrender.com/db-status",
     "icon": "https://icons.duckduckgo.com/ip3/mern-crud-backend-es7b.onrender.com.ico",
     "slug": "mern-crud",
-    "status": "up",
-    "uptime": "98.46%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 5865,
     "timeDay": 5865,
     "timeWeek": 5865,
     "timeMonth": 5865,
     "timeYear": 5865,
     "dailyMinutesDown": {
-      "2024-09-12": 12
+      "2024-09-12": 1
     }
   },
   {
