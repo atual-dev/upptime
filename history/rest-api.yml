@@ -1,7 +1,7 @@
 url: https://restapi-sq94.onrender.com/db-status
-status: down
-code: 503
-responseTime: 364
-lastUpdated: 2024-09-12T08:31:22.297Z
+status: up
+code: 200
+responseTime: 377
+lastUpdated: 2024-09-12T08:48:57.407Z
 startTime: 2024-09-11T13:58:54.852Z
 generator: Upptime <https://github.com/upptime/upptime>
