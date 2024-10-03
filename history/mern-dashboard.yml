@@ -1,7 +1,7 @@
-url: https://merndashboardbackend.onrender.com/db-status
-status: down
-code: 404
-responseTime: 315
-lastUpdated: 2024-10-02T23:16:29.781Z
+url: https://merndashboard-v7dv.onrender.com/db-status
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2024-10-03T16:39:11.572Z
 startTime: 2024-09-12T08:31:22.951Z
 generator: Upptime <https://github.com/upptime/upptime>
