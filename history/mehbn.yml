@@ -1,7 +1,7 @@
 url: https://atugatran-mehbn.onrender.com/db-status
-status: down
-code: 500
-responseTime: 24080
-lastUpdated: 2024-10-10T12:18:36.637Z
+status: up
+code: 200
+responseTime: 464
+lastUpdated: 2024-10-10T12:54:44.919Z
 startTime: 2024-09-12T08:29:49.476Z
 generator: Upptime <https://github.com/upptime/upptime>
