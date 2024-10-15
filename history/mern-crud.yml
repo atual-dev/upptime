@@ -1,7 +1,7 @@
 url: https://mern-crud-ki1x.onrender.com/db-status
-status: up
-code: 200
-responseTime: 105
-lastUpdated: 2024-10-14T23:15:52.831Z
+status: down
+code: 500
+responseTime: 125
+lastUpdated: 2024-10-15T05:40:40.238Z
 startTime: 2024-09-11T21:32:55.551Z
 generator: Upptime <https://github.com/upptime/upptime>
