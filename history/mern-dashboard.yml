@@ -1,7 +1,7 @@
 url: https://merndashboard-v7dv.onrender.com/db-status
-status: down
-code: 500
-responseTime: 11395
-lastUpdated: 2024-10-16T06:35:06.491Z
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2024-10-16T06:49:15.108Z
 startTime: 2024-09-12T08:31:22.951Z
 generator: Upptime <https://github.com/upptime/upptime>
